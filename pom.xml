@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.stream</groupId>
-	<artifactId>spstream</artifactId>
+	<artifactId>kafkasupplier</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spstream</name>
+	<name>kafkasupplier</name>
 	<description>Git project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
